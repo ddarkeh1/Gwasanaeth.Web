@@ -2,19 +2,22 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Gwasanaeth.Web.Models.Accounts
 {
-    public class SignupModel
+    public class SignUpModel
     {
-        [Required]  
+        [Required]
         [EmailAddress]
+        [Display(Name = "Email")]
         public string Email { get; set; }
 
         [Required]
         [DataType(DataType.Password)]
-        [StringLength(6, ErrorMessage = "Password must be at least six characters long")]
+        [StringLength(6, ErrorMessage = "Password must be at least six characaters long!")]
+        [Display(Name = "Password")]
         public string Password { get; set; }
-        
+
         [Required]
-        [Compare("Password", ErrorMessage = "Passwords do not match")]
+        [DataType(DataType.Password)]
+        [Compare("Password", ErrorMessage = "Password and its confirmation do not match")]
         public string ConfirmPassword { get; set; }
     }
 }

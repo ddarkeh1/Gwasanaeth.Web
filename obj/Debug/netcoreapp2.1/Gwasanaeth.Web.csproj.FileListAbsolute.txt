@@ -1,10 +1,3 @@
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.deps.json
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.runtimeconfig.json
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.runtimeconfig.dev.json
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.dll
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.pdb
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.dll
-/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.pdb
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.csprojAssemblyReference.cache
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.csproj.CoreCompileInputs.cache
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.RazorAssemblyInfo.cache
@@ -14,6 +7,7 @@
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.TagHelpers.input.cache
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.TagHelpers.output.cache
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.RazorCoreGenerate.cache
+/home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/Accounts/Signup.g.cshtml.cs
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/About.g.cshtml.cs
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/Contact.g.cshtml.cs
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/Home/Index.g.cshtml.cs
@@ -26,7 +20,15 @@
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.RazorTargetAssemblyInfo.cache
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.RazorTargetAssemblyInfo.cs
-/home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.pdb
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.dll
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.pdb
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.deps.json
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.runtimeconfig.json
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.runtimeconfig.dev.json
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.dll
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.pdb
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.dll
+/home/ddarkeh/Source/Gwasanaeth.Web/bin/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.pdb
+/home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.Views.pdb
 /home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Gwasanaeth.Web.csproj.CopyComplete
+/home/ddarkeh/Source/Gwasanaeth.Web/obj/Debug/netcoreapp2.1/Razor/Views/Accounts/Confirm.g.cshtml.cs

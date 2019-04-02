@@ -30,7 +30,17 @@ namespace Gwasanaeth.Web
                 options.MinimumSameSitePolicy = SameSiteMode.None;
             });
 
-
+            services.AddCognitoIdentity(config => {
+                config.Password = new Microsoft.AspNetCore.Identity.PasswordOptions
+                {
+                    RequireDigit = false,
+                    RequiredLength = 6,
+                    RequiredUniqueChars = 0,
+                    RequireLowercase = false,
+                    RequireNonAlphanumeric = false,
+                    RequireUppercase = false
+                };
+            });
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
@@ -49,6 +59,7 @@ namespace Gwasanaeth.Web
             app.UseStaticFiles();
             app.UseCookiePolicy();
 
+            app.UseAuthentication();
             app.UseMvc(routes =>
             {
                 routes.MapRoute(

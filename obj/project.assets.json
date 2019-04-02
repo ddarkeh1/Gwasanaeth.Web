@@ -11872,6 +11872,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.1": [
       "Amazon.AspNetCore.Identity.Cognito >= 1.0.0",
+      "Amazon.Extensions.CognitoAuthentication >= 1.0.1",
       "Microsoft.AspNetCore.App >= 2.1.1",
       "Microsoft.NETCore.App >= 2.1.0"
     ]
@@ -11918,6 +11919,10 @@
           "Amazon.AspNetCore.Identity.Cognito": {
             "target": "Package",
             "version": "[1.0.0, )"
+          },
+          "Amazon.Extensions.CognitoAuthentication": {
+            "target": "Package",
+            "version": "[1.0.1, )"
           },
           "Microsoft.AspNetCore.App": {
             "suppressParent": "All",
